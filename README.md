@@ -14,3 +14,6 @@ blarglify in four easy steps:
 - jack up the contrast by a bunch
 - resize the image back to 250x250 using nearest neighbour
 - add scanlines by modifying the brightness according to a sin wave
+
+## damn those faces look crazy howd you get them
+thispersondoesnotexist
